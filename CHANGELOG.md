@@ -2,6 +2,10 @@
 
 ## Changelog ##
 
+### v1.6.x ###
+
+- raised minimum deployment target to macOS Sierra
+
 ### v1.5.1 ###
 
 - added the ability to customize activation durations in _Preferences_ ([#132](https://github.com/newmarcel/KeepingYouAwake/pull/132))
