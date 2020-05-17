@@ -4,7 +4,7 @@
 
 ### v1.6.x ###
 
-- updated icons using the macOS Catalina style ([#141](https://github.com/newmarcel/KeepingYouAwake/pull/141))
+- modernized the app icon ([#141](https://github.com/newmarcel/KeepingYouAwake/pull/141))
 
 ### v1.5.2 ###
 
